@@ -1,4 +1,4 @@
-package com.fanwe.lib.input.stateview;
+package cn.linhome.lib.input.stateview;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -6,9 +6,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.fanwe.lib.input.FEditText;
-import com.fanwe.lib.input.R;
-
+import cn.linhome.lib.input.FEditText;
+import cn.linhome.lib.input.R;
 
 public class EditTextClearImageView extends ImageView implements FEditText.StateView
 {

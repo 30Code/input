@@ -1,11 +1,11 @@
-package com.fanwe.lib.input.stateview;
+package cn.linhome.lib.input.stateview;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.EditText;
 import android.widget.ImageView;
 
-import com.fanwe.lib.input.FEditText;
+import cn.linhome.lib.input.FEditText;
 
 public class EditTextFocusImageView extends ImageView implements FEditText.StateView
 {

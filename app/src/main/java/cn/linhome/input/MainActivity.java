@@ -1,4 +1,4 @@
-package com.fanwe.input;
+package cn.linhome.input;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
